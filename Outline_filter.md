@@ -21,7 +21,7 @@
 따라서 [1]에 adaptive mean filter와 adaptive median filter를 적용한 결과와 비교, [2]에 adaptive mean filter와 adaptive median filter를 적용한 결과와 비교, 그에 따라서 노이즈로부터 복원하는 두 필터의 우월성 비교가 필요하고, [3]에 wiener filter를 적용하여 어떤 SNR (정확히는 NSR이죠)에서 좋은 결과로 복원이 되는지를 확인하면 됩니다.
 
 /Users/yongsangho/Desktop/git/Digital-Image-Processing/cameraman_motion_blurred.png
-
+![original](./Digital-Image-Processing/cameraman_motion_blurred.png)
 /Users/yongsangho/Desktop/git/Digital-Image-Processing/cameraman_sp_noise.png
 
 
